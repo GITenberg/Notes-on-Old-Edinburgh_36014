@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/393
     wikipedia: http://en.wikipedia.org/wiki/Isabella_Bird
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36014#Notes-on-Old-Edinburgh
 gutenberg_issued: '2011-05-02'
 gutenberg_type: Text
 identifiers:
