@@ -1,0 +1,34 @@
+_repo: Notes-on-Old-Edinburgh_36014
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bird, Isabella L. (Isabella Lucy)
+    alias: Bishop, Isabella Lucy Bird
+    birthdate: 1831
+    deathdate: 1904
+    gutenberg_agent_id: '393'
+    url: http://www.gutenberg.org/2009/agents/393
+    wikipedia: http://en.wikipedia.org/wiki/Isabella_Bird
+description: ''
+gutenberg_issued: '2011-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Housing -- Scotland -- Edinburgh -- History -- 19th century -- Sources'
+- !lcsh 'Housing and health -- Scotland -- Edinburgh -- History -- 19th century --
+  Sources'
+- !lcsh 'Slums -- Scotland -- Edinburgh'
+- !lcsh 'Edinburgh (Scotland) -- Social conditions -- 19th century'
+- !lcc 'DA'
+- !lcc 'HN'
+- !lcsh 'Poor -- Scotland -- Edinburgh'
+title: Notes on Old Edinburgh
+url: http://www.gutenberg.org/ebooks/36014
